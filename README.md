@@ -1,0 +1,1 @@
+This project is a college web portal that provides students and faculty with up-to-date news, a photo gallery, and relevant announcements. It’s designed with a simple, user-friendly interface to ensure easy navigation across different sections.
